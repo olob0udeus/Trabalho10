@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+.texto{
+  font-size: 20px;
+  font-family: serif;
+}
+
+.fundo{
+  background-color: blue;
+}
+
+.espaço{
+  background-color: white;
+  height: 50px;
+}
+
+.imagem{
+  height: 334px;
+}
+
+.fundoP{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.espaçoP{
+  background-color: black;
+  height: 50px;
+}
